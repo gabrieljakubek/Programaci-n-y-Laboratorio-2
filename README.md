@@ -1,1 +1,1 @@
-# Programaci-n-y-Laboratorio-2
+# Programacion-y-Laboratorio-2
