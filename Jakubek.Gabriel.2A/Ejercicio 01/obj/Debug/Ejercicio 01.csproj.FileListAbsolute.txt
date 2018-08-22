@@ -1,0 +1,7 @@
+E:\Segundo Cuatrimestre\Programacion y Laboratorio 2\Jakubek.Gabriel.2A\Ejercicio 01\bin\Debug\Ejercicio 01.exe.config
+E:\Segundo Cuatrimestre\Programacion y Laboratorio 2\Jakubek.Gabriel.2A\Ejercicio 01\bin\Debug\Ejercicio 01.exe
+E:\Segundo Cuatrimestre\Programacion y Laboratorio 2\Jakubek.Gabriel.2A\Ejercicio 01\bin\Debug\Ejercicio 01.pdb
+E:\Segundo Cuatrimestre\Programacion y Laboratorio 2\Jakubek.Gabriel.2A\Ejercicio 01\obj\Debug\Ejercicio 01.csprojAssemblyReference.cache
+E:\Segundo Cuatrimestre\Programacion y Laboratorio 2\Jakubek.Gabriel.2A\Ejercicio 01\obj\Debug\Ejercicio 01.csproj.CoreCompileInputs.cache
+E:\Segundo Cuatrimestre\Programacion y Laboratorio 2\Jakubek.Gabriel.2A\Ejercicio 01\obj\Debug\Ejercicio 01.exe
+E:\Segundo Cuatrimestre\Programacion y Laboratorio 2\Jakubek.Gabriel.2A\Ejercicio 01\obj\Debug\Ejercicio 01.pdb
