@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Funciones;
 
 namespace Ejercicio_01
 {
@@ -99,7 +100,7 @@ namespace Ejercicio_01
             while (esNumero ==false || numero<=1)
             {
                 Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine("Error!!! Ingrese solamente numero");
+                Console.WriteLine("Error!!! Ingrese solamente numeros");
                 Console.ForegroundColor = ConsoleColor.DarkGreen;
                 Console.Write("Reingrese un numero mayor que 1:");
                 buffer = Console.ReadLine();
@@ -143,6 +144,24 @@ namespace Ejercicio_01
                 total = 0;
             }
             Console.WriteLine("");
+
+            Console.Write("Ingrese el numero maximo para hallar el centro numerico:");
+            buffer = Console.ReadLine();
+            esNumero = int.TryParse(buffer, out numero);
+            while (esNumero == false || numero <= 0)
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine("Error!!! Ingrese solamente numeros y que sean mayores a 0");
+                Console.ForegroundColor = ConsoleColor.DarkGreen;
+                Console.Write("Reingrese el numero maximo para hallar el centro numerico:");
+                buffer = Console.ReadLine();
+                esNumero = int.TryParse(buffer, out numero);
+            }
+
+            for(i=1; i<=numero; i++)
+            {
+
+            }
 
             Console.ReadLine();
         }
