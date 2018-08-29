@@ -12,13 +12,15 @@ namespace Ejercicio_Clase_02
         static void Main(string[] args)
         {
             Console.Title = "Ejercicio Clase 02";
-            Sello.mensaje = "Hola Mundo!!!";
-            Console.WriteLine(Sello.Imprimir());            
+            Sello.mensaje = "";
+            Console.Write(Sello.Imprimir());
+            Console.WriteLine("");
             Sello.Color = ConsoleColor.DarkGreen;
             Sello.ImprimirEnColor();
             Sello.Borrar();
             Console.Write(Sello.Imprimir());
             Console.ReadLine();
+            
         }
     }
 }
