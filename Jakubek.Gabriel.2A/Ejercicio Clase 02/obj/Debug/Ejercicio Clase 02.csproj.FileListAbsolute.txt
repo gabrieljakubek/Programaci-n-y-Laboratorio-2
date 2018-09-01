@@ -8,6 +8,8 @@ E:\Segundo Cuatrimestre\Programacion y Laboratorio 2\Jakubek.Gabriel.2A\Ejercici
 E:\Carrera Programacion Superior\Segundo Cuatrimestre\Lab y Prog 2A\Jakubek.Gabriel.2A\Ejercicio Clase 02\bin\Debug\Ejercicio Clase 02.exe.config
 E:\Carrera Programacion Superior\Segundo Cuatrimestre\Lab y Prog 2A\Jakubek.Gabriel.2A\Ejercicio Clase 02\bin\Debug\Ejercicio Clase 02.exe
 E:\Carrera Programacion Superior\Segundo Cuatrimestre\Lab y Prog 2A\Jakubek.Gabriel.2A\Ejercicio Clase 02\bin\Debug\Ejercicio Clase 02.pdb
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Lab y Prog 2A\Jakubek.Gabriel.2A\Ejercicio Clase 02\bin\Debug\Ejercicio Clase 02.exe.CodeAnalysisLog.xml
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Lab y Prog 2A\Jakubek.Gabriel.2A\Ejercicio Clase 02\bin\Debug\Ejercicio Clase 02.exe.lastcodeanalysissucceeded
 E:\Carrera Programacion Superior\Segundo Cuatrimestre\Lab y Prog 2A\Jakubek.Gabriel.2A\Ejercicio Clase 02\obj\Debug\Ejercicio Clase 02.csprojAssemblyReference.cache
 E:\Carrera Programacion Superior\Segundo Cuatrimestre\Lab y Prog 2A\Jakubek.Gabriel.2A\Ejercicio Clase 02\obj\Debug\Ejercicio Clase 02.csproj.CoreCompileInputs.cache
 E:\Carrera Programacion Superior\Segundo Cuatrimestre\Lab y Prog 2A\Jakubek.Gabriel.2A\Ejercicio Clase 02\obj\Debug\Ejercicio Clase 02.exe

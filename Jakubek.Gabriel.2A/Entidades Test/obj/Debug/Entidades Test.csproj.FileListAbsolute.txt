@@ -1,0 +1,8 @@
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Lab y Prog 2A\Jakubek.Gabriel.2A\Entidades Test\bin\Debug\Entidades Test.exe.config
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Lab y Prog 2A\Jakubek.Gabriel.2A\Entidades Test\bin\Debug\Entidades Test.exe
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Lab y Prog 2A\Jakubek.Gabriel.2A\Entidades Test\bin\Debug\Entidades Test.pdb
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Lab y Prog 2A\Jakubek.Gabriel.2A\Entidades Test\bin\Debug\Entidades Test.exe.CodeAnalysisLog.xml
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Lab y Prog 2A\Jakubek.Gabriel.2A\Entidades Test\bin\Debug\Entidades Test.exe.lastcodeanalysissucceeded
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Lab y Prog 2A\Jakubek.Gabriel.2A\Entidades Test\obj\Debug\Entidades Test.csproj.CoreCompileInputs.cache
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Lab y Prog 2A\Jakubek.Gabriel.2A\Entidades Test\obj\Debug\Entidades Test.exe
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Lab y Prog 2A\Jakubek.Gabriel.2A\Entidades Test\obj\Debug\Entidades Test.pdb

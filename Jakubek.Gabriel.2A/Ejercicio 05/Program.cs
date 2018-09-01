@@ -15,13 +15,10 @@ namespace Ejercicio_05
             Int32 numero;
             Int32 i;
             Int32 j;
-            Int32 controlUno = 0;
-            Int32 controlDos = 0;
-            Int32 centroNumerico = 0;
 
             Console.Title = "Ejercicio 05";
             Console.ForegroundColor = ConsoleColor.DarkGreen;
-            Console.Write("Ingrese el numero maximo para hallar el centro numerico:");
+            Console.Write("Ingrese el numero maximo para hallar los centros numericos posibles:");
             buffer = Console.ReadLine();
             chequeo = int.TryParse(buffer, out numero);
             while (chequeo == false || numero <= 0)
@@ -29,32 +26,29 @@ namespace Ejercicio_05
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("Error!!! Ingrese solamente numeros y que sean mayores a 0");
                 Console.ForegroundColor = ConsoleColor.DarkGreen;
-                Console.Write("Reingrese el numero maximo para hallar el centro numerico:");
+                Console.Write("Reingrese el numero maximo para hallar los centro numerico:");
                 buffer = Console.ReadLine();
                 chequeo = int.TryParse(buffer, out numero);
             }
-           // while (chequeo == true)
-            //{
-                for (i = 1; i <=numero; i++)
+            if (numero >= 8)
+            {
+                Console.WriteLine("Los centros numericos son:");
+                for (j = 1; j <= numero; j++)
                 {
-                    controlUno += i;
-                    controlDos = 0;
-                    for (j = numero; j >=1; j--)
+                    for (i = 1; i < j; i++)
                     {
-                        controlDos += j;
-                        if (controlUno == controlDos)
+                        if (i * (i - 1) / 2 == (j - i) * (j + i + 1) / 2) //(2 * Math.Pow(i, 2) == j * (j + 1))
                         {
-                            centroNumerico = i+1;
-                            Console.WriteLine("El centro numerico de {0} es {1}", numero, centroNumerico);
-                            chequeo = false;
+                            Console.WriteLine("Del numero {0} es el {1}", j, i);
                         }
                     }
-                    if(chequeo==false)
-                    {
-                        break;
-                    }
-                //}
+                }
             }
+            else
+            {
+                Console.WriteLine("Error!!!! no se halla ningun centro numerico!!!");
+            }
+
             Console.ReadLine();
         }
     }

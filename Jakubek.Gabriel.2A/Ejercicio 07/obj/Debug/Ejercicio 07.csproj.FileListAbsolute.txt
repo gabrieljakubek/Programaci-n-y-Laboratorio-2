@@ -1,0 +1,8 @@
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Lab y Prog 2A\Jakubek.Gabriel.2A\Ejercicio 07\bin\Debug\Ejercicio 07.exe.config
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Lab y Prog 2A\Jakubek.Gabriel.2A\Ejercicio 07\bin\Debug\Ejercicio 07.exe
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Lab y Prog 2A\Jakubek.Gabriel.2A\Ejercicio 07\bin\Debug\Ejercicio 07.pdb
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Lab y Prog 2A\Jakubek.Gabriel.2A\Ejercicio 07\bin\Debug\Ejercicio 07.exe.CodeAnalysisLog.xml
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Lab y Prog 2A\Jakubek.Gabriel.2A\Ejercicio 07\bin\Debug\Ejercicio 07.exe.lastcodeanalysissucceeded
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Lab y Prog 2A\Jakubek.Gabriel.2A\Ejercicio 07\obj\Debug\Ejercicio 07.csproj.CoreCompileInputs.cache
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Lab y Prog 2A\Jakubek.Gabriel.2A\Ejercicio 07\obj\Debug\Ejercicio 07.exe
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Lab y Prog 2A\Jakubek.Gabriel.2A\Ejercicio 07\obj\Debug\Ejercicio 07.pdb
