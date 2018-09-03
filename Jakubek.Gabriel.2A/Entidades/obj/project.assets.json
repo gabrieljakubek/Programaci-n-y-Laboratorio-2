@@ -182,11 +182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Carrera Programacion Superior\\Segundo Cuatrimestre\\Lab y Prog 2A\\Jakubek.Gabriel.2A\\Entidades\\Entidades.csproj",
+      "projectUniqueName": "E:\\Carrera Programacion Superior\\Segundo Cuatrimestre\\Programación y laboratorio 2A\\Practica\\Jakubek.Gabriel.2A\\Entidades\\Entidades.csproj",
       "projectName": "Entidades",
-      "projectPath": "E:\\Carrera Programacion Superior\\Segundo Cuatrimestre\\Lab y Prog 2A\\Jakubek.Gabriel.2A\\Entidades\\Entidades.csproj",
+      "projectPath": "E:\\Carrera Programacion Superior\\Segundo Cuatrimestre\\Programación y laboratorio 2A\\Practica\\Jakubek.Gabriel.2A\\Entidades\\Entidades.csproj",
       "packagesPath": "C:\\Users\\Haku\\.nuget\\packages\\",
-      "outputPath": "E:\\Carrera Programacion Superior\\Segundo Cuatrimestre\\Lab y Prog 2A\\Jakubek.Gabriel.2A\\Entidades\\obj\\",
+      "outputPath": "E:\\Carrera Programacion Superior\\Segundo Cuatrimestre\\Programación y laboratorio 2A\\Practica\\Jakubek.Gabriel.2A\\Entidades\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

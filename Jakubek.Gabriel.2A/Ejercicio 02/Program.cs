@@ -17,6 +17,7 @@ namespace Ejercicio_02
             Int32 numero;
             double cuadrado = 0;
             double cubo = 0;
+
             Console.Write("Ingrese un numero mayor que 0:");
             //numero = int.Parse(Console.ReadLine());
             buffer = Console.ReadLine();

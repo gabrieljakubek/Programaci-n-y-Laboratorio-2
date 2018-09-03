@@ -7,7 +7,7 @@ using Entidades;
 
 namespace Ejercicio_Clase_02
 {
-    class Program
+    class Ejercicio_Clase_02
     {
         static void Main(string[] args)
         {

@@ -16,6 +16,7 @@ namespace Ejercicio_07
             Int32 diaNa;
             Int32 mesNa;
             Int32 totalDias = 0;
+
             Console.Title = "Ejercicio 07";
             Console.ForegroundColor = ConsoleColor.DarkGreen;
             Console.Write("Ingrese su ano de nacimiento:");
