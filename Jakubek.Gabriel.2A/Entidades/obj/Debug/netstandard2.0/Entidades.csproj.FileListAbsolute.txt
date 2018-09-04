@@ -16,3 +16,12 @@ E:\Carrera Programacion Superior\Segundo Cuatrimestre\Lab y Prog 2A\Jakubek.Gabr
 E:\Carrera Programacion Superior\Segundo Cuatrimestre\Lab y Prog 2A\Jakubek.Gabriel.2A\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.cs
 E:\Carrera Programacion Superior\Segundo Cuatrimestre\Lab y Prog 2A\Jakubek.Gabriel.2A\Entidades\obj\Debug\netstandard2.0\Entidades.dll
 E:\Carrera Programacion Superior\Segundo Cuatrimestre\Lab y Prog 2A\Jakubek.Gabriel.2A\Entidades\obj\Debug\netstandard2.0\Entidades.pdb
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Programación y laboratorio 2A\Practica\Jakubek.Gabriel.2A\Entidades\bin\Debug\netstandard2.0\Entidades.deps.json
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Programación y laboratorio 2A\Practica\Jakubek.Gabriel.2A\Entidades\bin\Debug\netstandard2.0\Entidades.dll
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Programación y laboratorio 2A\Practica\Jakubek.Gabriel.2A\Entidades\bin\Debug\netstandard2.0\Entidades.pdb
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Programación y laboratorio 2A\Practica\Jakubek.Gabriel.2A\Entidades\obj\Debug\netstandard2.0\Entidades.csprojAssemblyReference.cache
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Programación y laboratorio 2A\Practica\Jakubek.Gabriel.2A\Entidades\obj\Debug\netstandard2.0\Entidades.csproj.CoreCompileInputs.cache
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Programación y laboratorio 2A\Practica\Jakubek.Gabriel.2A\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfoInputs.cache
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Programación y laboratorio 2A\Practica\Jakubek.Gabriel.2A\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.cs
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Programación y laboratorio 2A\Practica\Jakubek.Gabriel.2A\Entidades\obj\Debug\netstandard2.0\Entidades.dll
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Programación y laboratorio 2A\Practica\Jakubek.Gabriel.2A\Entidades\obj\Debug\netstandard2.0\Entidades.pdb

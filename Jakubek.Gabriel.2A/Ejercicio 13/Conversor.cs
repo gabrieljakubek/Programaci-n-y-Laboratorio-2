@@ -11,6 +11,10 @@ namespace Ejercicio_13
         public static string DecimalBinario(double a)
         {
             string retorno ="";
+            int numero = 0;
+            double coma = 0;
+            numero = (int)a;
+            coma = (a - numero) * 10000000;
             while(a!=1)
             {
                 retorno = retorno + a % 2;

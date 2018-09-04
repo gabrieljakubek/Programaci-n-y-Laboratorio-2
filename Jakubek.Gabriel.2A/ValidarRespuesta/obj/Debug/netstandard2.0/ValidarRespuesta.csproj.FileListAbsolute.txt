@@ -1,0 +1,9 @@
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Programación y laboratorio 2A\Practica\Jakubek.Gabriel.2A\ValidarRespuesta\bin\Debug\netstandard2.0\ValidarRespuesta.deps.json
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Programación y laboratorio 2A\Practica\Jakubek.Gabriel.2A\ValidarRespuesta\bin\Debug\netstandard2.0\ValidarRespuesta.dll
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Programación y laboratorio 2A\Practica\Jakubek.Gabriel.2A\ValidarRespuesta\bin\Debug\netstandard2.0\ValidarRespuesta.pdb
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Programación y laboratorio 2A\Practica\Jakubek.Gabriel.2A\ValidarRespuesta\obj\Debug\netstandard2.0\ValidarRespuesta.csproj.CoreCompileInputs.cache
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Programación y laboratorio 2A\Practica\Jakubek.Gabriel.2A\ValidarRespuesta\obj\Debug\netstandard2.0\ValidarRespuesta.AssemblyInfoInputs.cache
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Programación y laboratorio 2A\Practica\Jakubek.Gabriel.2A\ValidarRespuesta\obj\Debug\netstandard2.0\ValidarRespuesta.AssemblyInfo.cs
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Programación y laboratorio 2A\Practica\Jakubek.Gabriel.2A\ValidarRespuesta\obj\Debug\netstandard2.0\ValidarRespuesta.dll
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Programación y laboratorio 2A\Practica\Jakubek.Gabriel.2A\ValidarRespuesta\obj\Debug\netstandard2.0\ValidarRespuesta.pdb
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Programación y laboratorio 2A\Practica\Jakubek.Gabriel.2A\ValidarRespuesta\obj\Debug\netstandard2.0\ValidarRespuesta.csprojAssemblyReference.cache
