@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace ValidarRespuesta
 {
-    class Validar
+    public class Validar
     {
         public static bool ValidaS_N (string c)
         {

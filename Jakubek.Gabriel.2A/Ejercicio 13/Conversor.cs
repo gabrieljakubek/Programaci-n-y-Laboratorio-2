@@ -8,29 +8,60 @@ namespace Ejercicio_13
 {
     class Conversor
     {
-        public static string DecimalBinario(double a)
+        public static string DecimalBinario(double numeroBase)
         {
-            string retorno ="";
+            string retorno = "";
             int numero = 0;
-            double coma = 0;
-            numero = (int)a;
-            coma = (a - numero) * 10000000;
-            while(a!=1)
+            int i;
+            bool flag = true;
+            char digitoBina;
+            string binarioInverso = "";
+            numero = (int)numeroBase;
+
+            while (flag)
             {
-                retorno = retorno + a % 2;
-                a = a/2;
-                if (a==1)
+                binarioInverso = binarioInverso + (numero % 2);
+                numero /= 2;
+                if (numero == 1)
                 {
-                    retorno += a;
+                    binarioInverso = binarioInverso + numero;
+                    flag = false;
                 }
             }
+
+            for (i = binarioInverso.Length - 1; i >= 0; i--)
+            {
+                digitoBina = binarioInverso[i];
+                retorno += digitoBina;
+            }
+
             return retorno;
         }
 
-        public static double BinarioDecimal(string b)
+        public static double BinarioDecimal(string binario)
         {
             double retorno = 0;
+            int i;
+            int j;
+            int cantidad = 0;
+            int potem = 0;
+            int acumulador = 0;
 
+            for (i = binario.Length - 1; i >= 0; i--)
+            {
+                if (binario[i] == '1')
+                {
+                    cantidad = (binario.Length - 1) - i;
+                    potem = 1;
+                    for(j=1;j<=cantidad;j++)
+                    {
+                        potem *= 2;
+                    }
+                    acumulador += potem;
+
+                }
+            }
+            retorno = acumulador;
             return retorno;
         }
     }

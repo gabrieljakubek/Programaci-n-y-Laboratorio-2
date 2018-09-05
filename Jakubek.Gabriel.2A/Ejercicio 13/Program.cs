@@ -10,7 +10,7 @@ namespace Ejercicio_13
     {
         static void Main(string[] args)
         {
-            double numero = 15;
+            double numero = 54;
             string retorno = "";
 
             Console.Title = "Ejercicio 13";
@@ -18,7 +18,13 @@ namespace Ejercicio_13
 
             Console.Write("El numero {0} en binario es: ", numero);
             retorno = Conversor.DecimalBinario(numero);
-            Console.Write("{0}", retorno);
+            Console.WriteLine("{0}", retorno);
+
+            retorno = "1111";
+
+            Console.Write("El codigo binario {0} representa al decimal: ", retorno);
+            numero = Conversor.BinarioDecimal(retorno);
+            Console.Write("{0}", numero);
 
             Console.Read();
         }
