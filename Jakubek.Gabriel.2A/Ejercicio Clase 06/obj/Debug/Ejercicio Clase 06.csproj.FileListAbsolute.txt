@@ -1,0 +1,11 @@
+D:\VisualStudio\Jakubek.Gabriel.2A\Ejercicio Clase 06\obj\Debug\Ejercicio Clase 06.csprojAssemblyReference.cache
+D:\VisualStudio\Jakubek.Gabriel.2A\Ejercicio Clase 06\obj\Debug\Ejercicio_Clase_06.Form1.resources
+D:\VisualStudio\Jakubek.Gabriel.2A\Ejercicio Clase 06\obj\Debug\Ejercicio_Clase_06.frmTinta.resources
+D:\VisualStudio\Jakubek.Gabriel.2A\Ejercicio Clase 06\obj\Debug\Ejercicio_Clase_06.Properties.Resources.resources
+D:\VisualStudio\Jakubek.Gabriel.2A\Ejercicio Clase 06\obj\Debug\Ejercicio Clase 06.csproj.GenerateResource.cache
+D:\VisualStudio\Jakubek.Gabriel.2A\Ejercicio Clase 06\obj\Debug\Ejercicio Clase 06.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Jakubek.Gabriel.2A\Ejercicio Clase 06\bin\Debug\Ejercicio Clase 06.exe.config
+D:\VisualStudio\Jakubek.Gabriel.2A\Ejercicio Clase 06\bin\Debug\Ejercicio Clase 06.exe
+D:\VisualStudio\Jakubek.Gabriel.2A\Ejercicio Clase 06\bin\Debug\Ejercicio Clase 06.pdb
+D:\VisualStudio\Jakubek.Gabriel.2A\Ejercicio Clase 06\obj\Debug\Ejercicio Clase 06.exe
+D:\VisualStudio\Jakubek.Gabriel.2A\Ejercicio Clase 06\obj\Debug\Ejercicio Clase 06.pdb

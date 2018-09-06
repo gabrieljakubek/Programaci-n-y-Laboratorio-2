@@ -24,6 +24,56 @@ namespace Ejercicio_Clase_05
             Console.WriteLine("Son iguales? {0}", lapicera == lapicera2);
             lapicera2 = new Tinta(ConsoleColor.DarkMagenta, ETipoTinta.Comun);
             Console.WriteLine("Son iguales? {0}", lapicera == lapicera2);
+            Pluma pluma1 = new Pluma("Pelican", 0, lapicera2);
+            Pluma pluma2 = new Pluma("Fabercastle", 22);
+
+            Console.WriteLine(pluma2);
+            pluma2 -= lapicera;
+            Console.WriteLine(pluma2);
+
+            Console.WriteLine(pluma1);
+            pluma1 += lapicera2;
+            Console.WriteLine(pluma1);
+            pluma1 += lapicera2;
+            Console.WriteLine(pluma1);
+            pluma1 += lapicera2;
+            Console.WriteLine(pluma1);
+            pluma1 += lapicera2;
+            Console.WriteLine(pluma1);
+            pluma1 += lapicera2;
+            Console.WriteLine(pluma1);
+            pluma1 += lapicera2;
+            Console.WriteLine(pluma1);
+            pluma1 += lapicera2;
+            Console.WriteLine(pluma1);
+            pluma1 += lapicera;
+            Console.WriteLine(pluma1);
+            pluma1 += lapicera2;
+            Console.WriteLine(pluma1);
+            pluma1 += lapicera2;
+            Console.WriteLine(pluma1);
+            pluma1 += lapicera2;
+            Console.WriteLine(pluma1);
+            pluma1 -= lapicera2;
+            Console.WriteLine(pluma1);
+            pluma1 -= lapicera2;
+            Console.WriteLine(pluma1);
+            pluma1 -= lapicera2;
+            Console.WriteLine(pluma1);
+            pluma1 -= lapicera2;
+            Console.WriteLine(pluma1);
+            pluma1 -= lapicera2;
+            Console.WriteLine(pluma1);
+            pluma1 -= lapicera2;
+            Console.WriteLine(pluma1);
+            Console.WriteLine();
+            pluma1 -= lapicera2;
+            Console.WriteLine(pluma1);
+            Console.WriteLine();
+            pluma1 -= lapicera;
+            Console.WriteLine(pluma1);
+            
+
             Console.ReadLine();
         }
     }

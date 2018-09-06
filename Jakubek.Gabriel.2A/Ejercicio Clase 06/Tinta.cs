@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Ejercicio_Clase_05
 {
-    internal class Tinta
+    class Tinta
     {
         private ConsoleColor _color;
         private ETipoTinta _tipo;
@@ -37,7 +37,7 @@ namespace Ejercicio_Clase_05
 
         public static string Mostrar(Tinta a)
         {
-            string retorno = "Sin Tinta";
+            string retorno = "--";
             if (!object.Equals(a, null))
             {
                 retorno = a.Mostrar();

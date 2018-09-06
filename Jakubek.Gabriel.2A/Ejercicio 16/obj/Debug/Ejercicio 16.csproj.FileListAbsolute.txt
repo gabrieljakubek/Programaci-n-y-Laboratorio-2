@@ -1,0 +1,7 @@
+D:\VisualStudio\Jakubek.Gabriel.2A\Ejercicio 16\bin\Debug\Ejercicio 16.exe.config
+D:\VisualStudio\Jakubek.Gabriel.2A\Ejercicio 16\bin\Debug\Ejercicio 16.exe
+D:\VisualStudio\Jakubek.Gabriel.2A\Ejercicio 16\bin\Debug\Ejercicio 16.pdb
+D:\VisualStudio\Jakubek.Gabriel.2A\Ejercicio 16\obj\Debug\Ejercicio 16.csprojAssemblyReference.cache
+D:\VisualStudio\Jakubek.Gabriel.2A\Ejercicio 16\obj\Debug\Ejercicio 16.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Jakubek.Gabriel.2A\Ejercicio 16\obj\Debug\Ejercicio 16.exe
+D:\VisualStudio\Jakubek.Gabriel.2A\Ejercicio 16\obj\Debug\Ejercicio 16.pdb
