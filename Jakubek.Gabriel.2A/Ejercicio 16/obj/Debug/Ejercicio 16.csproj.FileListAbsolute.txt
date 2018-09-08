@@ -5,3 +5,10 @@ D:\VisualStudio\Jakubek.Gabriel.2A\Ejercicio 16\obj\Debug\Ejercicio 16.csprojAss
 D:\VisualStudio\Jakubek.Gabriel.2A\Ejercicio 16\obj\Debug\Ejercicio 16.csproj.CoreCompileInputs.cache
 D:\VisualStudio\Jakubek.Gabriel.2A\Ejercicio 16\obj\Debug\Ejercicio 16.exe
 D:\VisualStudio\Jakubek.Gabriel.2A\Ejercicio 16\obj\Debug\Ejercicio 16.pdb
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Programación y laboratorio 2A\Practica\Jakubek.Gabriel.2A\Ejercicio 16\bin\Debug\Ejercicio 16.exe.config
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Programación y laboratorio 2A\Practica\Jakubek.Gabriel.2A\Ejercicio 16\bin\Debug\Ejercicio 16.exe
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Programación y laboratorio 2A\Practica\Jakubek.Gabriel.2A\Ejercicio 16\bin\Debug\Ejercicio 16.pdb
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Programación y laboratorio 2A\Practica\Jakubek.Gabriel.2A\Ejercicio 16\obj\Debug\Ejercicio 16.csprojAssemblyReference.cache
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Programación y laboratorio 2A\Practica\Jakubek.Gabriel.2A\Ejercicio 16\obj\Debug\Ejercicio 16.csproj.CoreCompileInputs.cache
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Programación y laboratorio 2A\Practica\Jakubek.Gabriel.2A\Ejercicio 16\obj\Debug\Ejercicio 16.exe
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Programación y laboratorio 2A\Practica\Jakubek.Gabriel.2A\Ejercicio 16\obj\Debug\Ejercicio 16.pdb

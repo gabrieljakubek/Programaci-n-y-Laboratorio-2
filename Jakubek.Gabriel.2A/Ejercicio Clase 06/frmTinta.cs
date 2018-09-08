@@ -43,5 +43,10 @@ namespace Ejercicio_Clase_06
         {
 
         }
+
+        private void frmTinta_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

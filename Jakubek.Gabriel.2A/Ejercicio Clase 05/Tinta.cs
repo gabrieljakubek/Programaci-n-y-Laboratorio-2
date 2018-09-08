@@ -8,15 +8,18 @@ namespace Ejercicio_Clase_05
 {
     internal class Tinta
     {
+        #region Atributos
         private ConsoleColor _color;
         private ETipoTinta _tipo;
+        #endregion
 
+        #region Constructores
         public Tinta()
         {
             this._color = ConsoleColor.Blue;
             this._tipo = ETipoTinta.ConBrillo;
         }
-        #region Constructores
+
         public Tinta(ConsoleColor a) : this()
         {
             this._color = a;
@@ -38,7 +41,7 @@ namespace Ejercicio_Clase_05
         public static string Mostrar(Tinta a)
         {
             string retorno = "Sin Tinta";
-            if (!object.Equals(a, null))
+            if(!object.Equals(a, null)) //(a!=null) no funciona, preguntar
             {
                 retorno = a.Mostrar();
             }

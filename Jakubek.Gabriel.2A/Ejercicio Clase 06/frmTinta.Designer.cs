@@ -100,6 +100,7 @@
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
             this.Name = "frmTinta";
+            this.Load += new System.EventHandler(this.frmTinta_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
