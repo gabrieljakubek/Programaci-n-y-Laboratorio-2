@@ -1,0 +1,7 @@
+D:\VisualStudio\Jakubek.Gabriel.2A\Ejercicio Clase 07\bin\Debug\Ejercicio Clase 07.exe.config
+D:\VisualStudio\Jakubek.Gabriel.2A\Ejercicio Clase 07\bin\Debug\Ejercicio Clase 07.exe
+D:\VisualStudio\Jakubek.Gabriel.2A\Ejercicio Clase 07\bin\Debug\Ejercicio Clase 07.pdb
+D:\VisualStudio\Jakubek.Gabriel.2A\Ejercicio Clase 07\obj\Debug\Ejercicio Clase 07.csprojAssemblyReference.cache
+D:\VisualStudio\Jakubek.Gabriel.2A\Ejercicio Clase 07\obj\Debug\Ejercicio Clase 07.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Jakubek.Gabriel.2A\Ejercicio Clase 07\obj\Debug\Ejercicio Clase 07.exe
+D:\VisualStudio\Jakubek.Gabriel.2A\Ejercicio Clase 07\obj\Debug\Ejercicio Clase 07.pdb
