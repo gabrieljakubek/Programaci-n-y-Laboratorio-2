@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Entidades.Clase07
 {
-    class Paleta
+    public class Paleta
     {
         #region Atributos
         private Tempera[] _colores;
@@ -84,6 +84,7 @@ namespace Entidades.Clase07
 
         #endregion
 
+        #region Sobrecargas
         public static bool operator ==(Paleta paleta, Tempera tempera)
         {
             bool retorno = false;
@@ -118,7 +119,7 @@ namespace Entidades.Clase07
         public static Paleta operator +(Paleta pal, Tempera temp)
         {
             int indice;
-            if (pal ==temp)
+            if (pal == temp)
             {
                 indice = pal.ObtenerIndice(temp);
                 pal._colores[indice] += temp;
@@ -126,7 +127,7 @@ namespace Entidades.Clase07
             else
             {
                 indice = pal.ObtenerIndice();
-                if(indice!=-1)
+                if (indice != -1)
                 {
                     pal._colores[indice] = temp;
                 }
@@ -143,5 +144,28 @@ namespace Entidades.Clase07
 
             return pal;
         }
+
+        public static Paleta operator -(Paleta pal, Tempera temp)
+        {
+            int indice;
+            sbyte aux1;
+            sbyte aux2;
+            if (pal == temp)
+            {
+                indice = pal.ObtenerIndice(temp);
+                aux1 = (sbyte)pal._colores[indice];
+                aux2 = (sbyte)temp;
+                if (aux1 - aux2 <= 0)
+                {
+                    pal._colores[indice] = null;
+                }
+                else
+                {
+                    pal._colores[indice] += (sbyte)(aux2 * (-1));
+                }
+            }
+            return pal;
+        }
+        #endregion
     }
 }
