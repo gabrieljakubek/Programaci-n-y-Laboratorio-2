@@ -33,6 +33,14 @@ namespace TestWFClase08
 
         }
 
+        public frmTempera(Tempera tempera):this()
+        {
+            this._miTempera = tempera;
+            this.comboBox3.SelectedItem = tempera.GetColor;
+            this.textBoxCantidad.Text =""+ tempera.GetCantidad;
+            this.textBoxMarca.Text = tempera.Marca;
+        }
+
         private void comboBox3_SelectedIndexChanged(object sender, EventArgs e)
         {
 

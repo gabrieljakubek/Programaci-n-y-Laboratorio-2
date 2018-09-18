@@ -124,6 +124,7 @@
             this.Controls.Add(this.labelColor);
             this.Controls.Add(this.comboBox3);
             this.Name = "frmTempera";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "frmTempera";
             this.Load += new System.EventHandler(this.frmTempera_Load);
             this.ResumeLayout(false);

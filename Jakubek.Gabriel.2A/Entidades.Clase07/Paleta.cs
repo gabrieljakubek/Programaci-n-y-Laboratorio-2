@@ -30,12 +30,15 @@ namespace Entidades.Clase07
         {
             int i = 1;
             string retorno = "";
-            retorno += "La cantidad maxima es de " + this._cantMaximaElementos + "\n";
+            retorno += "La cantidad maxima es de " + this._cantMaximaElementos + "\r\n";
             foreach (Tempera temp in this._colores)
             {
-                retorno += "La tempera " + i + " es:\n";
-                retorno += temp;
-                retorno += "\n";
+                if (!object.Equals(temp, null))
+                {
+                    //retorno += "La tempera " + i + " es:\n";
+                    retorno += temp;
+                    retorno += "\r\n";
+                }
                 i++;
             }
             return retorno;
@@ -167,5 +170,32 @@ namespace Entidades.Clase07
             return pal;
         }
         #endregion
+
+        #region Indexacion
+
+        public Tempera this[int indice]
+        {
+            get
+            {
+                if (indice >= 0 && indice < this._cantMaximaElementos)
+                {
+                    return this._colores[indice];
+                }
+                else
+                {
+                    return null;
+                }
+            }
+            set
+            {
+                if (indice >= 0 && indice < this._cantMaximaElementos)
+                {
+                    this._colores[indice] = value;
+                }
+            }
+        }
+
+        #endregion
+
     }
 }

@@ -14,6 +14,25 @@ namespace Entidades.Clase07
         private string _marca;
         #endregion
 
+        #region Propiedades
+
+        public sbyte GetCantidad
+        {
+            get { return this._cantidad; }
+        }
+
+        public ConsoleColor GetColor
+        {
+            get { return this._color; }
+        }
+
+        public string Marca
+        {
+            get { return this._marca; }
+        }
+
+        #endregion
+
         #region Cosntructor
         public Tempera(sbyte cantidad, ConsoleColor color, string marca)
         {
@@ -27,9 +46,10 @@ namespace Entidades.Clase07
         private string Mostrar()
         {
             string retorno;
-            retorno = "La cantidad es de " + this._cantidad;
+            /*retorno = "La cantidad es de " + this._cantidad;
             retorno += " el color es " + this._color;
-            retorno += " y la marca es " + this._marca;
+            retorno += " y la marca es " + this._marca;*/
+            retorno = this._marca + " " + this._color + " " + this._cantidad;
             return retorno;
         }
         #endregion
