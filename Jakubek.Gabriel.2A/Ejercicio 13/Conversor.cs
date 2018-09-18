@@ -8,7 +8,7 @@ namespace Ejercicio_13
 {
     class Conversor
     {
-        public static string DecimalBinario(double numeroBase)
+        /*public static string DecimalBinario(double numeroBase)
         {
             string retorno = "";
             int numero = 0;
@@ -36,8 +36,46 @@ namespace Ejercicio_13
             }
 
             return retorno;
-        }
+        }*/
+        
 
+        public static string DecimalBinario(double numero)
+        {
+            string retorno = "";
+            int numeroAux = 0;
+            int i;
+            bool flag = true;
+            char digitoBina;
+            string binarioInverso = "";
+            numeroAux = (int)numero;
+
+            while (flag)
+            {
+                if (numeroAux % 2 == 0 || numeroAux % 2 == 0)
+                {
+                    binarioInverso = binarioInverso + (numeroAux % 2);
+                    numeroAux /= 2;
+                    if (numeroAux == 1)
+                    {
+                        binarioInverso = binarioInverso + numeroAux;
+                        flag = false;
+                    }
+                }
+                else
+                {
+                    binarioInverso = "osrevni rolaV";
+                    flag = false;
+                }
+            }
+
+            for (i = binarioInverso.Length - 1; i >= 0; i--)
+            {
+                digitoBina = binarioInverso[i];
+                retorno += digitoBina;
+            }
+
+            return retorno;
+        }
         public static double BinarioDecimal(string binario)
         {
             double retorno = 0;

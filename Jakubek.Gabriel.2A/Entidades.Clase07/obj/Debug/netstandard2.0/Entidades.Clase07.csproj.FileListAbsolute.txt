@@ -7,3 +7,12 @@ D:\VisualStudio\Jakubek.Gabriel.2A\Entidades.Clase07\bin\Debug\netstandard2.0\En
 D:\VisualStudio\Jakubek.Gabriel.2A\Entidades.Clase07\bin\Debug\netstandard2.0\Entidades.Clase07.pdb
 D:\VisualStudio\Jakubek.Gabriel.2A\Entidades.Clase07\obj\Debug\netstandard2.0\Entidades.Clase07.dll
 D:\VisualStudio\Jakubek.Gabriel.2A\Entidades.Clase07\obj\Debug\netstandard2.0\Entidades.Clase07.pdb
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Programación y laboratorio 2A\Practica\Jakubek.Gabriel.2A\Entidades.Clase07\bin\Debug\netstandard2.0\Entidades.Clase07.deps.json
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Programación y laboratorio 2A\Practica\Jakubek.Gabriel.2A\Entidades.Clase07\bin\Debug\netstandard2.0\Entidades.Clase07.dll
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Programación y laboratorio 2A\Practica\Jakubek.Gabriel.2A\Entidades.Clase07\bin\Debug\netstandard2.0\Entidades.Clase07.pdb
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Programación y laboratorio 2A\Practica\Jakubek.Gabriel.2A\Entidades.Clase07\obj\Debug\netstandard2.0\Entidades.Clase07.csprojAssemblyReference.cache
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Programación y laboratorio 2A\Practica\Jakubek.Gabriel.2A\Entidades.Clase07\obj\Debug\netstandard2.0\Entidades.Clase07.csproj.CoreCompileInputs.cache
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Programación y laboratorio 2A\Practica\Jakubek.Gabriel.2A\Entidades.Clase07\obj\Debug\netstandard2.0\Entidades.Clase07.AssemblyInfoInputs.cache
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Programación y laboratorio 2A\Practica\Jakubek.Gabriel.2A\Entidades.Clase07\obj\Debug\netstandard2.0\Entidades.Clase07.AssemblyInfo.cs
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Programación y laboratorio 2A\Practica\Jakubek.Gabriel.2A\Entidades.Clase07\obj\Debug\netstandard2.0\Entidades.Clase07.dll
+E:\Carrera Programacion Superior\Segundo Cuatrimestre\Programación y laboratorio 2A\Practica\Jakubek.Gabriel.2A\Entidades.Clase07\obj\Debug\netstandard2.0\Entidades.Clase07.pdb

@@ -10,7 +10,7 @@ namespace Ejercicio_13
     {
         static void Main(string[] args)
         {
-            double numero = 54;
+            double numero = -54;
             string retorno = "";
 
             Console.Title = "Ejercicio 13";
