@@ -37,24 +37,11 @@ namespace TestWFClase08
         {
             this._miTempera = tempera;
             this.comboBox3.SelectedItem = tempera.GetColor;
-            this.textBoxCantidad.Text =""+ tempera.GetCantidad;
-            this.textBoxMarca.Text = tempera.Marca;
+            this.textBoxCantidad.Text =""+ (sbyte)tempera;
+            this.textBoxMarca.Text = tempera.GetMarca;
         }
 
-        private void comboBox3_SelectedIndexChanged(object sender, EventArgs e)
-        {
 
-        }
-
-        private void textBoxMarca_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBoxCantidad_TextChanged(object sender, EventArgs e)
-        {
-
-        }
 
         private void button1_Click(object sender, EventArgs e)
         {
@@ -67,9 +54,6 @@ namespace TestWFClase08
            this.DialogResult =  DialogResult.Cancel;
         }
 
-        private void frmTempera_Load(object sender, EventArgs e)
-        {
 
-        }
     }
 }

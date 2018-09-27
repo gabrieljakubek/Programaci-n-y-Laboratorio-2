@@ -15,22 +15,15 @@ namespace Entidades.Clase07
         #endregion
 
         #region Propiedades
-
-        public sbyte GetCantidad
-        {
-            get { return this._cantidad; }
-        }
-
         public ConsoleColor GetColor
         {
             get { return this._color; }
         }
 
-        public string Marca
+        public string GetMarca
         {
             get { return this._marca; }
         }
-
         #endregion
 
         #region Cosntructor
@@ -52,6 +45,7 @@ namespace Entidades.Clase07
             retorno = this._marca + " " + this._color + " " + this._cantidad;
             return retorno;
         }
+
         #endregion
 
         #region Sobrecargas

@@ -45,7 +45,6 @@
             this.comboBox3.Name = "comboBox3";
             this.comboBox3.Size = new System.Drawing.Size(281, 21);
             this.comboBox3.TabIndex = 2;
-            this.comboBox3.SelectedIndexChanged += new System.EventHandler(this.comboBox3_SelectedIndexChanged);
             // 
             // labelColor
             // 
@@ -70,8 +69,7 @@
             this.textBoxCantidad.Location = new System.Drawing.Point(12, 148);
             this.textBoxCantidad.Name = "textBoxCantidad";
             this.textBoxCantidad.Size = new System.Drawing.Size(281, 20);
-            this.textBoxCantidad.TabIndex = 5;
-            this.textBoxCantidad.TextChanged += new System.EventHandler(this.textBoxCantidad_TextChanged);
+            this.textBoxCantidad.TabIndex = 7;
             // 
             // textBoxMarca
             // 
@@ -79,14 +77,13 @@
             this.textBoxMarca.Name = "textBoxMarca";
             this.textBoxMarca.Size = new System.Drawing.Size(281, 20);
             this.textBoxMarca.TabIndex = 6;
-            this.textBoxMarca.TextChanged += new System.EventHandler(this.textBoxMarca_TextChanged);
             // 
             // button1
             // 
             this.button1.Location = new System.Drawing.Point(42, 216);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 7;
+            this.button1.TabIndex = 8;
             this.button1.Text = "button1";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
@@ -96,7 +93,7 @@
             this.button2.Location = new System.Drawing.Point(169, 216);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(75, 23);
-            this.button2.TabIndex = 8;
+            this.button2.TabIndex = 9;
             this.button2.Text = "button2";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
@@ -107,7 +104,7 @@
             this.labelCantidad.Location = new System.Drawing.Point(9, 132);
             this.labelCantidad.Name = "labelCantidad";
             this.labelCantidad.Size = new System.Drawing.Size(49, 13);
-            this.labelCantidad.TabIndex = 9;
+            this.labelCantidad.TabIndex = 5;
             this.labelCantidad.Text = "Cantidad";
             // 
             // frmTempera
@@ -126,7 +123,6 @@
             this.Name = "frmTempera";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "frmTempera";
-            this.Load += new System.EventHandler(this.frmTempera_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

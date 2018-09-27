@@ -176,23 +176,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Haku\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\alumno\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Carrera Programacion Superior\\Segundo Cuatrimestre\\Programación y laboratorio 2A\\Practica\\Jakubek.Gabriel.2A\\Entidades\\Entidades.csproj",
+      "projectUniqueName": "D:\\VisualStudio\\Jakubek.Gabriel.2A\\Entidades\\Entidades.csproj",
       "projectName": "Entidades",
-      "projectPath": "E:\\Carrera Programacion Superior\\Segundo Cuatrimestre\\Programación y laboratorio 2A\\Practica\\Jakubek.Gabriel.2A\\Entidades\\Entidades.csproj",
-      "packagesPath": "C:\\Users\\Haku\\.nuget\\packages\\",
-      "outputPath": "E:\\Carrera Programacion Superior\\Segundo Cuatrimestre\\Programación y laboratorio 2A\\Practica\\Jakubek.Gabriel.2A\\Entidades\\obj\\",
+      "projectPath": "D:\\VisualStudio\\Jakubek.Gabriel.2A\\Entidades\\Entidades.csproj",
+      "packagesPath": "C:\\Users\\alumno\\.nuget\\packages\\",
+      "outputPath": "D:\\VisualStudio\\Jakubek.Gabriel.2A\\Entidades\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Haku\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

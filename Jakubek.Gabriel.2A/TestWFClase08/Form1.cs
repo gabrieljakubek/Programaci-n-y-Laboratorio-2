@@ -13,7 +13,7 @@ namespace TestWFClase08
 {
     public partial class Form1 : Form
     {
-        Paleta paleta1;
+        PaletaColeccion paleta1;
         public Form1()
         {
             paleta1 = 5;
@@ -22,16 +22,6 @@ namespace TestWFClase08
             this.textBox1.Multiline = true;
             this.button1.Text = "+";
             this.button2.Text = "-";
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void groupBox1_Enter(object sender, EventArgs e)
-        {
-
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -57,7 +47,7 @@ namespace TestWFClase08
             {
                 if (seleccion == linea)
                 {
-                    MessageBox.Show(seleccion + " posision " + i);
+                    //MessageBox.Show(seleccion + " posision " + i);
                     break;
                 }
                 i++;
@@ -77,5 +67,6 @@ namespace TestWFClase08
             this.groupBox1.Visible = true;
             this.agregarPaletaToolStripMenuItem.Enabled = false;
         }
+
     }
 }
