@@ -14,3 +14,10 @@ E:\Carrera Programacion Superior\Segundo Cuatrimestre\Lab y Prog 2A\Jakubek.Gabr
 E:\Carrera Programacion Superior\Segundo Cuatrimestre\Lab y Prog 2A\Jakubek.Gabriel.2A\Ejercicio Clase 02\obj\Debug\Ejercicio Clase 02.csproj.CoreCompileInputs.cache
 E:\Carrera Programacion Superior\Segundo Cuatrimestre\Lab y Prog 2A\Jakubek.Gabriel.2A\Ejercicio Clase 02\obj\Debug\Ejercicio Clase 02.exe
 E:\Carrera Programacion Superior\Segundo Cuatrimestre\Lab y Prog 2A\Jakubek.Gabriel.2A\Ejercicio Clase 02\obj\Debug\Ejercicio Clase 02.pdb
+D:\VisualStudio\Jakubek.Gabriel.2A\Ejercicio Clase 02\bin\Debug\Ejercicio Clase 02.exe.config
+D:\VisualStudio\Jakubek.Gabriel.2A\Ejercicio Clase 02\bin\Debug\Ejercicio Clase 02.exe
+D:\VisualStudio\Jakubek.Gabriel.2A\Ejercicio Clase 02\bin\Debug\Ejercicio Clase 02.pdb
+D:\VisualStudio\Jakubek.Gabriel.2A\Ejercicio Clase 02\obj\Debug\Ejercicio Clase 02.csprojAssemblyReference.cache
+D:\VisualStudio\Jakubek.Gabriel.2A\Ejercicio Clase 02\obj\Debug\Ejercicio Clase 02.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Jakubek.Gabriel.2A\Ejercicio Clase 02\obj\Debug\Ejercicio Clase 02.exe
+D:\VisualStudio\Jakubek.Gabriel.2A\Ejercicio Clase 02\obj\Debug\Ejercicio Clase 02.pdb

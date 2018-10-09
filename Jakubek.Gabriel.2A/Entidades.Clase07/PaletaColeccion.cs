@@ -54,6 +54,14 @@ namespace Entidades.Clase07
             return new PaletaColeccion(cant);
         }
 
+        public static int ordenarColor(PaletaColeccion pal1, PaletaColeccion pal2)
+        {
+            int retorno = 0;
+            if (pal1._colores == pal2._colores)
+            { retorno = 0; }
+            return retorno;
+        }
+
         #endregion
 
         #region Sobrecargas

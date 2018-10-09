@@ -9,3 +9,4 @@ D:\VisualStudio\Jakubek.Gabriel.2A\Ejercicio Clase 06\bin\Debug\Ejercicio Clase 
 D:\VisualStudio\Jakubek.Gabriel.2A\Ejercicio Clase 06\bin\Debug\Ejercicio Clase 06.pdb
 D:\VisualStudio\Jakubek.Gabriel.2A\Ejercicio Clase 06\obj\Debug\Ejercicio Clase 06.exe
 D:\VisualStudio\Jakubek.Gabriel.2A\Ejercicio Clase 06\obj\Debug\Ejercicio Clase 06.pdb
+D:\VisualStudio\Jakubek.Gabriel.2A\Ejercicio Clase 06\obj\Debug\Ejercicio_Clase_06.frmPluma.resources

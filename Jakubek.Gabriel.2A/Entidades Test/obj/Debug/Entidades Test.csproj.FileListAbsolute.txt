@@ -6,3 +6,10 @@ E:\Carrera Programacion Superior\Segundo Cuatrimestre\Lab y Prog 2A\Jakubek.Gabr
 E:\Carrera Programacion Superior\Segundo Cuatrimestre\Lab y Prog 2A\Jakubek.Gabriel.2A\Entidades Test\obj\Debug\Entidades Test.csproj.CoreCompileInputs.cache
 E:\Carrera Programacion Superior\Segundo Cuatrimestre\Lab y Prog 2A\Jakubek.Gabriel.2A\Entidades Test\obj\Debug\Entidades Test.exe
 E:\Carrera Programacion Superior\Segundo Cuatrimestre\Lab y Prog 2A\Jakubek.Gabriel.2A\Entidades Test\obj\Debug\Entidades Test.pdb
+D:\VisualStudio\Jakubek.Gabriel.2A\Entidades Test\bin\Debug\Entidades Test.exe.config
+D:\VisualStudio\Jakubek.Gabriel.2A\Entidades Test\bin\Debug\Entidades Test.exe
+D:\VisualStudio\Jakubek.Gabriel.2A\Entidades Test\bin\Debug\Entidades Test.pdb
+D:\VisualStudio\Jakubek.Gabriel.2A\Entidades Test\obj\Debug\Entidades Test.csprojAssemblyReference.cache
+D:\VisualStudio\Jakubek.Gabriel.2A\Entidades Test\obj\Debug\Entidades Test.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Jakubek.Gabriel.2A\Entidades Test\obj\Debug\Entidades Test.exe
+D:\VisualStudio\Jakubek.Gabriel.2A\Entidades Test\obj\Debug\Entidades Test.pdb
